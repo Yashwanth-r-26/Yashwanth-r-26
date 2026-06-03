@@ -64,14 +64,14 @@ I am a Full-Stack Developer specializing in distributed architectures, low-laten
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9" alt="Yashwanth's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-r-26&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9" alt="Yashwanth's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-r-2003&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9" alt="Top Languages" width="45%"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanth-r)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanth.r.261103@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
