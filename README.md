@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yashwanth R
-### Full-Stack Software Engineer & Distributed Systems Architect
+### Full-Stack Software Engineer & AI Engineer
 
 ---
 
@@ -58,15 +58,6 @@ I am a Full-Stack Developer specializing in distributed architectures, low-laten
 * ☁️ **Cloud Infrastructure Intern** @ **BayMap Systems Pvt Ltd** *(Oct 2023 - Dec 2024)*
     * Co-engineered a JVM-based open-source platform using Java, Quarkus, Apache Pulsar, and PostgreSQL.
     * Structured microservice orchestrations, containerized applications, and managed Kubernetes cluster deployments.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-r-26&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9" alt="Yashwanth's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-r-2003&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9" alt="Top Languages" width="45%"/>
-</p>
 
 ---
 
